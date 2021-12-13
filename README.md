@@ -1,4 +1,4 @@
-# WebGL Fluid Simulation
+# WebGL Fluid Simulation [Settings Overhaul]
 
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
